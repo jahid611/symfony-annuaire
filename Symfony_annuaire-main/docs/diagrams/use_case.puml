@@ -1,0 +1,20 @@
+@startuml
+actor Utilisateur
+rectangle Annuaire {
+    Utilisateur --> (Consulter la liste des personnes)
+}
+@enduml
+
+
+
+
+
+
+
+
+
+
+
+
+
+
